@@ -7,4 +7,4 @@ of personnel on board using machine learning algorithms.
 ![titanic image](https://i.ibb.co/f8Gy6SG/Titanic-Cobh-Harbour-1912.jpg)
 
 # How to view
-The project is done using Python and Jupyter Notebook, as seen in the file: **kaggle_titanic_challenge.ipynb**
+The project is done using Python and Jupyter Notebook, as seen in the file: [test](https://github.com/AlonT1/Kaggle-Titanic-Challenge/blob/main/kaggle_titanic_challenge.ipynb)**kaggle_titanic_challenge.ipynb**
